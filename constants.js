@@ -1,0 +1,1 @@
+export const APPNAME = "QUAZIR Landing Page — Learn easier and faster";
